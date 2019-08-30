@@ -1,0 +1,3 @@
+Name: Rose
+Age: 21
+Favorite Color: Indigo
